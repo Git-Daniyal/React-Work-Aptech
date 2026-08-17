@@ -3,9 +3,9 @@ import ChildC from './ChildC'
 const ChildA = ({ username }) => {
   return (
        <div>
-            <h1>
+            <h3>
                 Child B Component
-            </h1>
+            </h3>
             <ChildC username={username}/>
         </div>
   )

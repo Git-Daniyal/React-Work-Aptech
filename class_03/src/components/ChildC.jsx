@@ -3,7 +3,7 @@ const ChildC = ({ username }) => {
   return (
 
     <div>
-        <h4>Username is {username}</h4>
+        <h4>Username : {username}</h4>
     </div>
 
   )

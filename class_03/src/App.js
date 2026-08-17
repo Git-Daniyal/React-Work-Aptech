@@ -5,5 +5,5 @@ const App = () => {
     <Parent/>
   )
 }
-
+  
 export default App

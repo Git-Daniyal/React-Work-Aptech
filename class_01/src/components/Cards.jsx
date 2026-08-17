@@ -10,7 +10,7 @@ function Cards(props) {
                     <div className="card-body">
                         <h4 className="card-title">{props.title}</h4>
                         <p className="card-text">Laptop Description: This is a simple laptop description.</p>
-                        <a href="/" className="btn btn-outline-primary fw-bold me-4">Buy Now</a>
+                        <a href="/" className="btn btn-outline-primary fw-bold me-4">Order Now</a>
                         <a href="/" className="btn btn-outline-success fw-bold ms-4">Add to cart</a>
                     </div>
             </div>

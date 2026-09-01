@@ -1,5 +1,5 @@
 {
-  "name": "custom_hook_use_effect",
+  "name": "use_ref",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

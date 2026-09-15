@@ -1,0 +1,16 @@
+const initialstate = 0;
+
+function countReducer(state = initialstate, action) {
+
+    switch (action.type) {
+        case "Increament":
+            return state + 1;
+        case "Decreament":
+            return state - 1;
+        default:
+            return state;
+    }
+
+}
+
+export default countReducer;
